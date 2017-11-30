@@ -3,5 +3,9 @@
 
 ## Third-party libraries
 
-- SDWebImage
-- SBJson5 (https://github.com/stig/json-framework)
+[SDWebImage] (https://github.com/rs/SDWebImage)
+
+---
+
+[SBJson 5](https://github.com/stig/json-framework)
+
