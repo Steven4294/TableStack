@@ -10,6 +10,9 @@ TableStack loads the top 30 users from api.stackexchange and displays their: bad
 
 - pagination. It would be useful to be able to continue scrolling and fetch more users. 
 
+- UITableViewDetailCell. It would be nice to be able to click on a cell and have it load more content - e.g. you click on a user and it shows more information, including their location, reputation change, etc. 
+
+
 ## Third-party libraries
 
 [SDWebImage](https://github.com/rs/SDWebImage) was used to download images asynchronously and to cache images so that they were only downloaded one time. SDWebImage also has a convenient way to display placeholder images while the image is being loaded.
